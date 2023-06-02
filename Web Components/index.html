@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World in Vue</title>
+    <script src="https://unpkg.com/vue@next"></script>
+</head>
+<body>
+    <div id="app">
+        <button v-if="!isClicked" v-on:click="isClicked = true">Press me!</button>
+        <p v-else>Hello, world!</p>
+    </div>
+
+    <script>
+        Vue.createApp({
+            data() {
+                return {
+                    isClicked: false
+                };
+            }
+        }).mount('#app');
+    </script>
+</body>
+</html>
