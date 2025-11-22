@@ -1,0 +1,246 @@
+{
+  "site": {
+    "title": "John Bacus",
+    "tagline": "Designer, builder, and maker of things; builder of highly functional teams that work best by working together.",
+    "meta": {
+      "description": "Designer, builder, and maker of things; builder of highly functional teams that work best by working together. Instructor, Interim Director of Undergraduate Program, Co-Chair Board of Advisors, ATLAS Institute; Eagle Scout, Scoutmaster; VP of Product Management, and member of the SketchUp startup team. -- I make products that people love because they \"...just work.\" I make teams that people love to work on because they \"just work,\" too."
+    }
+  },
+  "navigation": {
+    "galleries": [
+      {
+        "id": "about-me",
+        "title": "About Me",
+        "url": "/about-me",
+        "projects": [
+          { "id": "about-me-1", "title": "My Profile", "url": "/about-me-1" },
+          { "id": "resume", "title": "Resume", "url": "/resume" },
+          { "id": "my-design-philosophy", "title": "Design Philosophy", "url": "/my-design-philosophy" },
+          { "id": "teaching-principles", "title": "Teaching Principles", "url": "/teaching-principles" },
+          { "id": "diversity-statement", "title": "Diversity Statement", "url": "/diversity-statement" },
+          { "id": "leadership-manifesto", "title": "Leadership Manifesto", "url": "/leadership-manifesto" },
+          { "id": "contact", "title": "Contact", "url": "/contact" }
+        ]
+      },
+      {
+        "id": "software-design",
+        "title": "Software Design",
+        "url": "/copy-of-my-work",
+        "projects": [
+          { "id": "sketchup-client", "title": "SketchUp Client", "url": "/sketchup-client" },
+          { "id": "sketchup-for-web", "title": "SketchUp for Web", "url": "/sketchup-for-web" },
+          { "id": "layout", "title": "LayOut Client", "url": "/layout" },
+          { "id": "3d-warehouse", "title": "3D Warehouse", "url": "/3d-warehouse" },
+          { "id": "building-maker", "title": "Building Maker", "url": "/building-maker" },
+          { "id": "style-builder", "title": "Style Builder", "url": "/style-builder" },
+          { "id": "trimble-connect", "title": "Trimble Connect", "url": "/trimble-connect" },
+          { "id": "general-modeler", "title": "General 3D Modeler", "url": "/general-modeler" }
+        ]
+      },
+      {
+        "id": "interaction-design",
+        "title": "Interaction Design",
+        "url": "/interaction-design",
+        "projects": [
+          { "id": "touch-ux-design", "title": "Touch Modeling UX Design", "url": "/touch-ux-design" },
+          { "id": "layout-u", "title": "LayOut Direct Manipulator", "url": "/layout-u" },
+          { "id": "su-add-location-dialog", "title": "SU Add Location Dialog", "url": "/su-add-location-dialog" },
+          { "id": "ugc-cc-licenser-ux", "title": "UGC-CC Licenser UX", "url": "/ugc-cc-licenser-ux" },
+          { "id": "expansive-help-tip", "title": "Expansive Help", "url": "/expansive-help-tip" },
+          { "id": "match-photo", "title": "Match Photo", "url": "/match-photo" }
+        ]
+      },
+      {
+        "id": "graphic-design",
+        "title": "Graphic Design",
+        "url": "/iconography",
+        "projects": [
+          { "id": "instructor-animations", "title": "Instructor Animations", "url": "/instructor-animations" },
+          { "id": "sketchup-icons", "title": "SketchUp icons", "url": "/sketchup-icons" },
+          { "id": "layout-icons", "title": "LayOut Icons", "url": "/layout-icons" },
+          { "id": "google", "title": "Google Community Illustration", "url": "/google" },
+          { "id": "google-3d-maps-styling", "title": "Google 3D Maps Styling", "url": "/google-3d-maps-styling" },
+          { "id": "application-icons", "title": "Application Icons", "url": "/application-icons" }
+        ]
+      },
+      {
+        "id": "product-design",
+        "title": "Product Design",
+        "url": "/product-design",
+        "projects": [
+          { "id": "pochade-box", "title": "Pochade Box", "url": "/pochade-box" },
+          { "id": "skpr", "title": "SKPR", "url": "/skpr" },
+          { "id": "calibration-cubes", "title": "Calibration Cubes", "url": "/calibration-cubes" },
+          { "id": "camera-obscura", "title": "Camera Obscura", "url": "/camera-obscura" }
+        ]
+      },
+      {
+        "id": "furniture-design",
+        "title": "Furniture Design",
+        "url": "/furniture-design",
+        "projects": [
+          { "id": "datastructure", "title": "Datastructure", "url": "/datastructure" },
+          { "id": "modirondak-1", "title": "Modirondak", "url": "/modirondak-1" },
+          { "id": "flapping-gazebo", "title": "Flapping Gazebo", "url": "/flapping-gazebo" },
+          { "id": "modirondak", "title": "Modirondak", "url": "/modirondak" },
+          { "id": "ourschool-stool", "title": "Ourschool Stool", "url": "/ourschool-stool" }
+        ]
+      },
+      {
+        "id": "architecture",
+        "title": "Architectural Design",
+        "url": "/architecture",
+        "projects": [
+          { "id": "antelope-road", "title": "Antelope Road", "url": "/antelope-road" },
+          { "id": "890-yale", "title": "890 Yale", "url": "/890-yale" },
+          { "id": "atlas-building", "title": "ATLAS Building", "url": "/atlas-building" },
+          { "id": "auswartiges-amt", "title": "Auswärtiges Amt", "url": "/auswartiges-amt" },
+          { "id": "miles-davis-archive", "title": "Miles Davis Archive", "url": "/miles-davis-archive" },
+          { "id": "texas-house", "title": "Texas House", "url": "/texas-house" }
+        ]
+      },
+      {
+        "id": "computational-design",
+        "title": "Computational Design",
+        "url": "/code",
+        "projects": [
+          { "id": "game-of-life", "title": "Game of Life", "url": "/game-of-life" },
+          { "id": "nks", "title": "NKS", "url": "/nks" },
+          { "id": "beam-robots", "title": "BEAM robots", "url": "/beam-robots" }
+        ]
+      },
+      {
+        "id": "fine-art",
+        "title": "Fine Art",
+        "url": "/fine-art",
+        "projects": [
+          { "id": "plein-air-sketching", "title": "Plein Air, Sketching", "url": "/plein-air-sketching" },
+          { "id": "portable-sky", "title": "Portable Sky", "url": "/portable-sky" },
+          { "id": "bon-iver", "title": "Bon Iver", "url": "/bon-iver" },
+          { "id": "figure-drawings", "title": "Figure Drawings", "url": "/figure-drawings" },
+          { "id": "good-bad-and-ugly", "title": "Good, Bad and Ugly", "url": "/good-bad-and-ugly" },
+          { "id": "the-road", "title": "The Road", "url": "/the-road" },
+          { "id": "tv-ecorche", "title": "TV Écorché", "url": "/tv-ecorche" }
+        ]
+      },
+      {
+        "id": "curriculum-design",
+        "title": "Curriculum Design",
+        "url": "/curriculum-design",
+        "projects": [
+          { "id": "computational-foundations", "title": "Computational Foundations", "url": "/computational-foundations" },
+          { "id": "creative-technology-and-design-capstone", "title": "Creative Technology and Design, Capstone", "url": "/creative-technology-and-design-capstone" },
+          { "id": "digital-sketching", "title": "Digital Sketching", "url": "/digital-sketching" },
+          { "id": "new-product-development-studio", "title": "New Product Development Studio", "url": "/new-product-development-studio" },
+          { "id": "design-foundations-1", "title": "Design Foundations", "url": "/design-foundations-1" }
+        ]
+      },
+      {
+        "id": "business-model-design",
+        "title": "Business Model Design",
+        "url": "/business-plans",
+        "projects": [
+          { "id": "by-request-only", "title": "By Request Only", "url": "/by-request-only" }
+        ]
+      },
+      {
+        "id": "policy-design",
+        "title": "Policy Design",
+        "url": "/policy-design",
+        "projects": [
+          { "id": "by-request-only-1", "title": "By Request Only", "url": "/by-request-only-1" }
+        ]
+      },
+      {
+        "id": "organizational-design",
+        "title": "Organizational Design",
+        "url": "/organizational-design",
+        "projects": [
+          { "id": "copy-of-by-request-only", "title": "By Request Only", "url": "/copy-of-by-request-only" }
+        ]
+      },
+      {
+        "id": "writing",
+        "title": "Writing",
+        "url": "/writing",
+        "projects": [
+          { "id": "digital-sketching-illustrations", "title": "Digital Sketching", "url": "/digital-sketching-illustrations" },
+          { "id": "design-foundations", "title": "Deep Design in the age of Generative AI", "url": "/design-foundations" }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "profile": {
+      "title": "My Profile",
+      "description": "Designer, builder, and maker of things; builder of highly functional teams that work best by working together. Instructor, Interim Director of Undergraduate Program, Co-Chair Board of Advisors, ATLAS Institute; Eagle Scout, Scoutmaster; VP of Product Management, and member of the SketchUp startup team.\n--\nI make products that people love because they \"...just work.\" I make teams that people love to work on because they \"just work,\" too.",
+      "body": "Here is my Resume. If you need some design support, some product management, or you just need help getting your team working together a little better than before, I'm keen to help.\n\nYou can Contact Me through this site, especially if you're looking for a phone number, email address, or physical mailing address. I'm always happy to chat, though I've had to become more selective in how much I expose to the wilds of the internet. You understand I'm sure.\n\nIn these times of cultural change, knowing where I stand on questions of Diversity, Equity, and Inclusion is sometimes helpful. I've distilled that thinking into a concise Diversity Statement, which I invite you to review.\n\nLately, I've taken a more serious look at my Teaching Principles, and I invite you to have a look at them as well. While I have considerable executive-level experience with software development, I have a strong interest in teaching as well. I believe that to really know a topic, one should be able to teach it competently.\n\nAnd lastly, I've given some particular thought to the principles under which I exercise my leadership. If you're interested, I have a Leadership Manifesto."
+    },
+    "home": {
+      "title": "John Bacus",
+      "description": "Designer, builder, and maker of things; builder of highly functional teams that work best by working together. Instructor, Interim Director of Undergraduate Program, Co-Chair Board of Advisors, ATLAS Institute; Eagle Scout, Scoutmaster; VP of Product Management, and member of the SketchUp startup team.\n--\nI make products that people love because they \"...just work.\" I make teams that people love to work on because they \"just work,\" too.",
+      "social": {
+        "linkedin": "https://www.linkedin.com/in/jbacus/",
+        "medium": "https://medium.com/@jbacus",
+        "email": "mailto:john@bacus.org"
+      }
+    }
+  },
+  "projects": {
+    "datastructure": {
+      "title": "Datastructure",
+      "description": "",
+      "gallery": "furniture-design",
+      "body": "Initiated by a series of conversations I had with students at Wolfram Research's (first) New Kind of Science Summer School\" at Brown University in the summer of 2003, \"Datastructure\" became my MArch. thesis project at Rice University in the 2002-2004 term. I was fascinated by the physical nature of information, and by the fact that information could be the basis for a fundamental kind of physical computation. My research wandered through related studies in information science, physical computation, graph theory, and more. I eventually proposed a new kind of library, one which was an active participant in the practice of research itself.\n\nSimultaneous to this thesis project, I was also working as a Product Manager on the early startup stages of @Last Software and the products that eventually became SketchUp and LayOut. The 3D models below are some of the very earliest examples of SketchUp models in use for architectural design. My work on SketchUp in this period won a MacWorld \"Product of the Year,\" a \"Thesis Prize\" honor for the Rice University School of Architecture, and a sign posted in the hallway outside John Casabarian's office prohibiting noisy phone calls. Guilty ;-)"
+    },
+    "trimble-connect": {
+      "title": "Trimble Connect",
+      "description": "",
+      "gallery": "software-design",
+      "body": ""
+    },
+    "pochade-box": {
+      "title": "Pochade Box",
+      "description": "",
+      "gallery": "product-design",
+      "body": ""
+    },
+    "skpr": {
+      "title": "SKPR",
+      "description": "",
+      "gallery": "product-design",
+      "body": "SKPR (pronounced 'skipper') is a fully articulated hexapod robot that anyone can build. And we're not talking about yet another cheesy 'truckbot.' No sir– this is the robot you've always wanted to build. An insect-y hexapod that can walk. Still, this is a robot that you can really build. I know because we did it.\n\nSKPR was designed entirely in Google SketchUp, mainly because I wanted to prove that SketchUp was capable of modeling something complicated like a robot. Also that there was an easy and workable path from SketchUp to cnc fabrication machines that could bring the design into the real world. I think I proved that part was working fine."
+    },
+    "3d-warehouse": {
+      "title": "3D Warehouse",
+      "description": "",
+      "gallery": "software-design",
+      "body": ""
+    },
+    "design-foundations": {
+      "title": "Deep Design in the age of Generative AI",
+      "description": "",
+      "gallery": "writing",
+      "body": "In 2020, I wrote a book outlining some ideas about maintaining a sketching practice in our digital age. While I was happy with the outcome, I felt like I could have gone further. Last year, I began gathering material for a new book, a general primer on \"deep design\" in the age of artificial intelligence. I think there might be a new book in this, though I'm not in a hurry to finish it.\n\nFor now, you're welcome to wander in the Deep Design garden.",
+      "externalLink": "https://publish.obsidian.md/deepdesign/ATLAS/Deep+Design/Deep+Design"
+    },
+    "curriculum-design": {
+      "title": "Curriculum Design",
+      "description": "",
+      "type": "gallery",
+      "projects": [
+        "computational-foundations",
+        "creative-technology-and-design-capstone",
+        "digital-sketching",
+        "new-product-development-studio",
+        "design-foundations-1"
+      ]
+    },
+    "expansive-help-tip": {
+      "title": "Expansive Help",
+      "description": "",
+      "gallery": "interaction-design",
+      "body": "In high-functionality software applications, defined as applications that have more capabilities than might be completely understood by the average user at any single time, it is important to consider the 'learning' carefully in a continuum way rather than thinking that you'll be able to teach new users everything they need to know before they get fully engaged in their work. Springing from core educational thinking from Seymour Papert, Marvin Minsky, and others, I always felt SketchUp was best learned through play interactions. I think SketchUp is best learned by just messing around with it.\n\nIn or around the spring semester of 2006, I audited (along with two other colleagues from Google) a user experience design class at the University of Colorado taught by the indomitable Gerhard Fischer. I learned that \"expertise is a function of context, not people.\" I think what Gerhard meant by this was that people who learn to use high-functionality software applications (like SketchUp) should never be thought of as 'novices' or 'experts' in the tool as a whole but rather should be afforded learning opportunities at just the right time, in the right place, and in be the best format for that particular moment in their interaction with their work.\n\nFrom that course, I devised a design for a gradually disclosable help system, a chimera of a tooltip, a cursor, a status prompt, and a context-sensitive \"Instructor\" panel that would all work together to expand as the user paused for consideration. \"Learnability\" has always been something we cared about on the SketchUp team, and while this system was never fully realized, there are pieces in place all over the application as it ships today."
+    }
+  }
+}
