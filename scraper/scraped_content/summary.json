@@ -1,0 +1,62 @@
+{
+  "https://bacus.org/john-bacus": {
+    "status": "success",
+    "html_file": "scraped_content/john-bacus.html",
+    "screenshot": "scraped_content/john-bacus.png",
+    "size": 12844
+  },
+  "https://bacus.org/about-me-1": {
+    "status": "success",
+    "html_file": "scraped_content/about-me-1.html",
+    "screenshot": "scraped_content/about-me-1.png",
+    "size": 35595
+  },
+  "https://bacus.org/datastructure": {
+    "status": "success",
+    "html_file": "scraped_content/datastructure.html",
+    "screenshot": "scraped_content/datastructure.png",
+    "size": 837161
+  },
+  "https://bacus.org/curriculum-design": {
+    "status": "success",
+    "html_file": "scraped_content/curriculum-design.html",
+    "screenshot": "scraped_content/curriculum-design.png",
+    "size": 30536
+  },
+  "https://bacus.org/expansive-help-tip": {
+    "status": "success",
+    "html_file": "scraped_content/expansive-help-tip.html",
+    "screenshot": "scraped_content/expansive-help-tip.png",
+    "size": 48190
+  },
+  "https://bacus.org/trimble-connect": {
+    "status": "success",
+    "html_file": "scraped_content/trimble-connect.html",
+    "screenshot": "scraped_content/trimble-connect.png",
+    "size": 89276
+  },
+  "https://bacus.org/design-foundations": {
+    "status": "success",
+    "html_file": "scraped_content/design-foundations.html",
+    "screenshot": "scraped_content/design-foundations.png",
+    "size": 29375
+  },
+  "https://bacus.org/3d-warehouse": {
+    "status": "success",
+    "html_file": "scraped_content/3d-warehouse.html",
+    "screenshot": "scraped_content/3d-warehouse.png",
+    "size": 77658
+  },
+  "https://bacus.org/pochade-box": {
+    "status": "success",
+    "html_file": "scraped_content/pochade-box.html",
+    "screenshot": "scraped_content/pochade-box.png",
+    "size": 41359
+  },
+  "https://bacus.org/skpr": {
+    "status": "success",
+    "html_file": "scraped_content/skpr.html",
+    "screenshot": "scraped_content/skpr.png",
+    "size": 42281
+  }
+}
